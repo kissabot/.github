@@ -1,7 +1,7 @@
 ## 你还在寻找简单易用聊天机器人框架吗？
 ## 来看看KissaBot吧！
 
-KissaBot是一个希望符合KISS的跨平台通用聊天机器人框架。
+KissaBot是一个希望符合KISS原则的跨平台通用聊天机器人框架。
 
 Kissa使用rust实现底层逻辑，lua实现上层逻辑。
 
@@ -13,4 +13,4 @@ lua插件api简中注解完善，便于大陆开发者开发。rust插件api（�
 
 Emil: adqber123@outlook.com
 
-QQ: 3605331714
+开发者QQ群: 638314812
